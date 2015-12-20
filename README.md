@@ -6,7 +6,7 @@ This is tested on Debian Wheezy and adapted from https://github.com/kulve/tegra-
 Note that these Ubuntu instructions use the *first* partition of the USB stick, unlike my Debian instructions.
 
 *OUYA IS EASILY BRICKABLE. READ NO FURTHER*
-
+[ubuntu update](http://popularubuntuquestions.com)
 That said, the goal is not to flash anything on Ouya. The kernel is booted from memory and Ubuntu from an USB stick or SD card.
 
 The binaries mentioned in this readme can be found from http://tuomas.kulve.fi/tmp/ouya-ubuntu/ .
@@ -15,7 +15,7 @@ Distribution issues
 -------------------
 * Debian Wheezy: Segfault in OMX_UseEGLImage with XBMC.
 * Debian Jessie: X.Org Video ABI 15, no driver.
-* Ubuntu 12.04: Old.
+* Ubuntu http://popularubuntuquestions.com/
 * Ubuntu 12.10: Old.
 * Ubuntu 13.04: Works.
 * Ubuntu 13.10: X.Org Video ABI 14, rendering problems.
